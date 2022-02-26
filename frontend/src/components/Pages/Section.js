@@ -15,7 +15,8 @@ export class Section extends Component {
         search:false,
         height:true,
         nodata:false,
-        result:''
+        result:'',
+        test:''
     }
     static contextType=DataContext;
 
